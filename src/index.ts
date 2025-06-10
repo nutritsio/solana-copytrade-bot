@@ -1,3 +1,3 @@
-import { startWebhookServer } from "./monitor/helius";
+import { startWebhookServer } from "./monitor/webhookHandler";
 
 startWebhookServer();
